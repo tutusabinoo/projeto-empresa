@@ -1,0 +1,5 @@
+[{"Nome_do_produto": "Livro","Preco": 20.0,"Quantidade": 10},
+{"Nome_do_produto": "Caderno","Preco": 15.5,"Quantidade": 25},
+{"Nome_do_produto": "Mochila", "Preco": 30.75,"Quantidade": 15 },
+{"Nome_do_produto": "Caneta","Preco": 12.0,"Quantidade": 30},
+{"Nome_do_produto": "Garrafa termica", "Preco": 18.0,"Quantidade": 20}]
