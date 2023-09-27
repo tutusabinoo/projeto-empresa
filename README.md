@@ -1,4 +1,3 @@
-# projeto-empresa
 # Projeto Java - Gerenciamento Empresarial
 
 Este projeto consiste em um aplicativo Java para gerenciamento de uma empresa, envolvendo operações com clientes, produtos, funcionários, receita anual e pedidos.
