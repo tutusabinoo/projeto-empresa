@@ -29,8 +29,8 @@ O programa oferece as seguintes funcionalidades:
 1. **Imprimir clientes do banco de dados:**
    - Conecta-se ao banco de dados MySQL e imprime os dados dos clientes.
 
-2. **Imprimir produtos do arquivo JSON:**
-   - Lê o arquivo 'produtos.json' e imprime os dados dos produtos.
+2. **Imprimir produtos do arquivo CSV:**
+   - Lê o arquivo 'produtos.csv' e imprime os dados dos produtos.
 
 3. **Imprimir dados dos funcionários cadastrados:**
    - Cria 5 funcionários fictícios e imprime seus dados.
