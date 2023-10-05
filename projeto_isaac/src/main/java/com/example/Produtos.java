@@ -13,25 +13,9 @@ public class Produtos {
 
         try (BufferedReader br = new BufferedReader(new FileReader(csvFile))) {
             while ((line = br.readLine()) != null) {
-                
-                if (!line.trim().isEmpty()) {
-                  
-                    String[] produto = line.split(",");
-
-                    
-                    if (produto.length >= 1) {
-                        System.out.println( produto[0].trim());
-
-                        
-                        if (produto.length >= 2) {
-                            System.out.println( produto[1].trim());
-                        }
-
-                        if (produto.length >= 3) {
-                            System.out.println( produto[2].trim());
-                        }
-                    }
-                }
+             String[] produto = line.split(",");
+                for (String item : produto) {
+                    System.out.println(item);}
             }
         } catch (IOException e) {
             e.printStackTrace();
